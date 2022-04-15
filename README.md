@@ -1,7 +1,6 @@
 ![GitVersion – From git log to SemVer in no time][banner]
 
-Versioning when using Git, solved. GitVersion looks at your git history and
-works out the [Semantic Version][semver] of the commit being built.
+Versioning when using Git, solved. GitVersion looks at your git history and works out the [Semantic Version][semver] of the commit being built.
 
 [![Build status][azure-pipeline-badge]][azure-pipeline]
 [![Build status][github-actions-badge]][github-actions]
